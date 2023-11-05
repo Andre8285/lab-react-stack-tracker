@@ -40,3 +40,12 @@
 .read-the-docs {
   color: #888;
 }
+
+.company-id > img{
+  width: 100px;
+}
+
+.company-id {
+  display: flex;
+  flex-direction: row;
+}
